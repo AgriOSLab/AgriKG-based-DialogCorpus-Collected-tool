@@ -7,9 +7,9 @@ import org.neo4j.driver.internal.value.MapValue;
 import java.util.*;
 
 public class Neo4jApp {
-    private String uri = "bolt://1.116.164.63:7687";
+    private String uri = 
     private String username = "neo4j";
-    private String passward = "123456";
+    private String passward = 
 
     private Driver driver;
 
